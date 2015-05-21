@@ -1,0 +1,10 @@
+{
+  "name": "restify-mocker",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "node-promise": "^0.5.12",
+    "restify": "^3.0.1"
+  }
+}

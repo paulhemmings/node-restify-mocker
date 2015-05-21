@@ -1,0 +1,48 @@
+[
+  {
+    "model": "user",
+    "values" : [
+      {
+          "id": 1,
+          "name": "test-user",
+          "email": "test@test.com"
+      },
+      {
+        "id": 2,
+        "name": "real-user",
+        "email": "real@test.com"
+      }
+    ]
+  },
+  {
+    "model": "car",
+    "values": [
+      {
+        "id": 1,
+        "make": "ford",
+        "model": "mustang"
+      },
+      {
+        "id": 2,
+        "make": "dodge",
+        "model": "viper"
+      }
+    ]
+  },
+  {
+    "model": "person",
+    "models": "people",
+    "values": [
+      {
+        "id": 1,
+        "name": "paul",
+        "age": "21"
+      },
+      {
+        "id": 2,
+        "name": "jack",
+        "age": "34"
+      }
+    ]
+  }
+]
